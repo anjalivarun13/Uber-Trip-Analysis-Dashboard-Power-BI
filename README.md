@@ -126,13 +126,13 @@ This dashboard delivers a **360-degree analysis of Uber trips**, offering insigh
 ## 🖼️ Dashboard Snapshots
 
 ### 📊 Overview Page
-![Overview Page](overview.png)
+![Overview Page](https://github.com/anjalivarun13/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Overview.png)
 
 ### ⏱ Time Analysis Page
-![Time Analysis Page](time_analysis.png)
+![Time Analysis Page](https://github.com/anjalivarun13/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Time%20Analysis.png)
 
 ### 📋 Details Page
-![Details Page](details.png)
+![Details Page](https://github.com/anjalivarun13/Uber-Trip-Analysis-Dashboard-Power-BI/blob/main/Details.png)
 
 ---
 
