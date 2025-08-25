@@ -136,5 +136,8 @@ This dashboard delivers a **360-degree analysis of Uber trips**, offering insigh
 
 ---
 
-📧 For queries or collaboration, please contact: *[Your Name / Team]*
+## 👩‍💻 Author
+**Anjali Varun**  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/anjalivarun13) | [Portfolio](https://your-portfolio-link.com)
 
